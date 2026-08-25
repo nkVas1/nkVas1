@@ -8,18 +8,10 @@ Commercial work runs through **OdinLab Studios**, my digital studio — most
 recently a full rebuild for a concrete manufacturer, live at
 [snabservis-sz.ru](http://snabservis-sz.ru/). Client source stays private.
 
-I try to justify changes with a number rather than an argument, and to say
-plainly what I did *not* check. Recently that meant three fixes to
-[OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)'s command line, which was
-silently printing something other than the configuration it was handed:
-[#15370](https://github.com/OrcaSlicer/OrcaSlicer/pull/15370) — a JSON `0` was
-discarded, which switched the feature it disabled **on**;
-[#15371](https://github.com/OrcaSlicer/OrcaSlicer/pull/15371) — 183 shipped
-presets were unloadable over one case-sensitive comparison;
-[#15372](https://github.com/OrcaSlicer/OrcaSlicer/pull/15372) — misspelled
-settings were accepted without a word.
+I try to justify a change with a number rather than an argument, and to say
+plainly what I did *not* check. Lately that has meant reading other people's
+code closely enough to send patches back, and designing a twin-chamber
+Mesoamerican duct flute from transfer-matrix acoustics rather than from a
+reference photograph.
 
-Also applied acoustics: a twin-chamber Mesoamerican duct flute designed from
-transfer-matrix acoustics rather than from a reference photograph.
-
-Rust · C++ · Python · TypeScript · Tauri · Windows internals — 📍 Germany
+Rust · C++ · Python · TypeScript · Tauri · Windows internals — remote, no fixed base
