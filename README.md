@@ -10,8 +10,8 @@ recently a full rebuild for a concrete manufacturer, live at
 
 I try to justify a change with a number rather than an argument, and to say
 plainly what I did *not* check. Lately that has meant reading other people's
-code closely enough to send patches back, and designing a twin-chamber
-Mesoamerican duct flute from transfer-matrix acoustics rather than from a
-reference photograph.
+code closely enough to send patches back, and a run of parametric 3D work where
+the geometry falls out of acoustics, anatomy or a physical law rather than out
+of a reference photograph.
 
 Rust · C++ · Python · TypeScript · Tauri · Windows internals — remote, no fixed base
